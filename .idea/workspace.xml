@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489036a9-0b06-4b9e-b2f8-acd424aab063" name="Changes" comment="Etap2">
+    <list default="true" id="489036a9-0b06-4b9e-b2f8-acd424aab063" name="Changes" comment="Etap3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,12 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1759918290994</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Etap3">
+      <option name="closed" value="true" />
+      <created>1759918600638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759918600638</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Etap1" />
     <MESSAGE value="Etap2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Etap2" />
+    <MESSAGE value="Etap3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Etap3" />
   </component>
 </project>
